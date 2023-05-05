@@ -6,6 +6,9 @@ recipe title, cooking time, ingredients, as well as instructions. The website al
 has a Google Authentication System implemented to prevent users from being able to
 view other users' created recipes.
 
+# Github Repo
+https://github.coecis.cornell.edu/bl536/Recipes-Website
+
 # Group Members
 
 Brendan Lo (bl536)
