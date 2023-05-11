@@ -9,6 +9,9 @@ view other users' created recipes.
 # Github Repo
 https://github.coecis.cornell.edu/bl536/Recipes-Website
 
+# Delopyed Website
+https://recipes-website-itsblo536.vercel.app/
+
 # Group Members
 
 Brendan Lo (bl536)
@@ -19,4 +22,4 @@ My web app ended up being different from the one I proposed. I was initially goi
 to implement multiple pages, including one to view specific recipes and one to create
 recipes. However, I found Chakra UI components being more aesthetically pleasing to 
 view specific recipes. Additionally, I struggled a little implementing a separate create
-page alone, but I plan to attempt it for the final submission if time permits.
+page alone for the deadline, but I hope to be able to continue working on this over the summer!
