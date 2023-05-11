@@ -20,7 +20,7 @@ const AuthUserContext = createContext<AuthData | undefined>(undefined)
 // our wrapper around our entire web app - enabling context of all authentication in our web app
 // the children we're referencing is all of the child components we will put inside our wrapper
 // auth is our auth instance for our app
-const AuthUserProvider: FC<WrappedComponentProps> = ({ children, ...auth }) => {
+const AuthUserProvider: FC<WrappedComponentProps> = ({ children, ...auth }: any) => {
   return (
     <AuthUserContext.Provider value={auth}>{children}</AuthUserContext.Provider>
   )
