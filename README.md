@@ -9,7 +9,7 @@ view other users' created recipes.
 # Github Repo
 https://github.coecis.cornell.edu/bl536/Recipes-Website
 
-# Delopyed Website
+# Deployed Website
 https://recipes-website-itsblo536.vercel.app/
 
 # Group Members
